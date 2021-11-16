@@ -7,7 +7,7 @@ FermiNet is the implementation of the (2020) paper ["Ab-Initio Solution of the M
 ## [Setup.py](https://github.com/deepmind/ferminet/blob/jax/setup.py)
 FermiNet's setup file has some key dependencies that give us a peek into what is going on: 
 * [Kfac](https://github.com/deepmind/deepmind-research/tree/master/kfac_ferminet_alpha) specific to fermiNet which is different than [TensorFlow Kfac](https://github.com/tensorflow/kfac) -- [Kfac Paper](https://arxiv.org/pdf/1503.05671.pdf) :blue_book: 
-* [Jax](https://github.com/google/jax)
+* [Jax](https://github.com/google/jax) - for more on Jax see our Wiki [You Don't Know Jax](https://github.com/sevenTMers/kompilr/wiki/You-Don't-Know-Jax!)
 * [ML Collections](https://github.com/google/ml_collections)
 * [Optax](https://github.com/deepmind/optax)
 * [PyScf](https://github.com/pyscf/pyscf/)
