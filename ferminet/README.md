@@ -1,4 +1,4 @@
-# FermiNet: A Deep Dive Into the Code, for compilers sake
+# FermiNet: A Deep Code Dive, for compilers sake
 
 > "FermiNet is a neural network for learning the ground state [wavefunctions](https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Book%3A_University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.02%3A_Wavefunctions) of atoms and molecules using a [variational Monte Carlo](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00147) approach."
 
