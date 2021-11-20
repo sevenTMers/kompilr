@@ -260,6 +260,8 @@ be typically characterized by an amount of information much smaller than the max
 
 (2021) [Cortex: A Compiler for Recursive Deep Learning Models](https://arxiv.org/pdf/2011.01383.pdf)
 
+(2020) [MDBenchmark:A toolkit to optimize the performance of molecular dynamics simulations](https://aip.scitation.org/doi/10.1063/5.0019045)
+
 (2020) [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
 
 (2020) ["Ab-Initio Solution of the Many-Electron Schroedinger Equation with Deep Neural Networks"](https://arxiv.org/pdf/1909.02487.pdf) - FermiNet
