@@ -291,6 +291,8 @@ be typically characterized by an amount of information much smaller than the max
 
 (2018) [Machine Learning in Compiler Optimization](https://zwang4.github.io/publications/pieee18.pdf)
 
+(2018) [NAMD goes quantum: an integrative suite for hybrid simulations](https://sci-hub.mksa.top/10.1038/nmeth.4638)
+
 (2018) [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 
 (2018) [The Simple Essence of Automatic Differentiation](http://conal.net/papers/essence-of-ad/essence-of-ad-icfp.pdf)
