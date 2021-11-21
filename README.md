@@ -28,9 +28,9 @@ From early studies in *'simple hardsphere systems and systems of monatomic model
 
 ## Software
 
-[NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf) | [Namd Goes Quantum](https://github.com/sevenTMers/kompilr/blob/main/papers/namd_goes_quantum_integrative_solution_hybrid_simulations.pdf)
+[NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | 📖 [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf) | [Namd Goes Quantum](https://github.com/sevenTMers/kompilr/blob/main/papers/namd_goes_quantum_integrative_solution_hybrid_simulations.pdf)
 
-[Gromacs](https://manual.gromacs.org/documentation/) - Groningen MAchine for Chemical Simulations | [Tutorials](http://www.mdtutorials.com/gmx/)
+[Gromacs](https://manual.gromacs.org/documentation/) - Groningen MAchine for Chemical Simulations | 📰 [Tutorials](http://www.mdtutorials.com/gmx/)
 
 [Charmm](https://www.charmm.org/) - Chemistry at HARvard Macromolecular Mechanics
 
