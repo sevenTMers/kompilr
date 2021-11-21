@@ -33,7 +33,6 @@ Important concepts include:
 * [Pauli Repulsion](https://web1.eng.famu.fsu.edu/~dommelen/quantum/style_a/pr.html)
 * [Lennard-Jones Potential](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Intermolecular_Forces/Specific_Interactions/Lennard-Jones_Potential)
 * [Coulomb's Law](https://chem.libretexts.org/Courses/Saint_Marys_College_Notre_Dame_IN/CHEM_342%3A_Bio-inorganic_Chemistry/Readings/Week_1%3A_Analysis_of_Periodic_Trends/1.1%3A_Concepts_and_principles_that_explain_periodic_trends/1.1.1%3A_Coulomb's_Law)
-* 
 
 ## Software
 
