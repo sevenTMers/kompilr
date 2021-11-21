@@ -28,7 +28,7 @@ From early studies in *'simple hardsphere systems and systems of monatomic model
 
 ## Software
 
-[NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf) | [Namd Goes Quantum]()
+[NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf) | [Namd Goes Quantum](https://github.com/sevenTMers/kompilr/blob/main/papers/namd_goes_quantum_integrative_solution_hybrid_simulations.pdf)
 
 # Protein Folding
 
@@ -291,7 +291,7 @@ be typically characterized by an amount of information much smaller than the max
 
 (2018) [Machine Learning in Compiler Optimization](https://zwang4.github.io/publications/pieee18.pdf)
 
-(2018) [NAMD goes quantum: an integrative suite for hybrid simulations]()
+(2018) [NAMD goes quantum: an integrative suite for hybrid simulations](https://github.com/sevenTMers/kompilr/blob/main/papers/namd_goes_quantum_integrative_solution_hybrid_simulations.pdf)
 
 (2018) [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 
