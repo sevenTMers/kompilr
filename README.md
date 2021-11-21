@@ -298,6 +298,8 @@ be typically characterized by an amount of information much smaller than the max
 
 (2012) [A Systolic Array-Based FPGA Parallel Architecture for the BLAST Algorithm](https://www.hindawi.com/journals/isrn/2012/195658/)
 
+(2011) [A high performance implementation for Molecular Dynamics simulations on a FPGA supercomputer](https://github.com/sevenTMers/kompilr/blob/main/papers/2011_high_performance_implementation_molecular_dynamics_fpga.pdf)
+
 (1982) [Why Systolic Architectures?](https://course.ece.cmu.edu/\~ece740/f13/lib/exe/fetch.php?media=kung_-_1982_-_why_systolic_architectures.pdf)
 
 (1981) [Trace Scheduling: A Technique for Global Microcode Compaction](https://people.eecs.berkeley.edu/\~kubitron/courses/cs252-S12/handouts/papers/TraceScheduling.pdf)
