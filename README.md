@@ -32,6 +32,10 @@ From early studies in *'simple hardsphere systems and systems of monatomic model
 
 [Gromacs](https://manual.gromacs.org/documentation/) - Groningen MAchine for Chemical Simulations | [Tutorials](http://www.mdtutorials.com/gmx/)
 
+[Charmm](https://www.charmm.org/) - Chemistry at HARvard Macromolecular Mechanics
+
+
+
 # Protein Folding
 
  > Structure-function relationships are the fundamental object of knowledge in protein chemistry; they allow us to rationally design drugs, engineer proteins with new functions, and understand why mutations cause disease. [- On The Origin of Proteins](https://www.chemistryworld.com/features/on-the-origin-of-proteins/3004719.article)
