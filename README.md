@@ -26,6 +26,10 @@ It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](
 
 From early studies in *'simple hardsphere systems and systems of monatomic model fluids, (and) real-world substances'*, the field has evolved to [Monte Carlo simulation](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Molecular_Dynamics_Monte%20Carlo_Simulations_Langevin_Dynamics_Computational_Review.pdf), and arrived to the serious consideration of quantum molecular dynamics. 
 
+## Software
+
+[NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | [Paper]()
+
 # Protein Folding
 
  > Structure-function relationships are the fundamental object of knowledge in protein chemistry; they allow us to rationally design drugs, engineer proteins with new functions, and understand why mutations cause disease. [- On The Origin of Proteins](https://www.chemistryworld.com/features/on-the-origin-of-proteins/3004719.article)
