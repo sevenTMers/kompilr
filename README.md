@@ -24,7 +24,7 @@ Machine Learning for Drug Discovery has [made many strides](https://www.ncbi.nlm
 
 It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf). 
 
-From these early studies in *'simple hardsphere systems and systems of monatomic model fluids, (and) real-world substances'*, the field has evolved to [Monte Carlo simulation](), and are now at the point where quantum molecular dynamics are a real question for the near future. 
+From early studies in *'simple hardsphere systems and systems of monatomic model fluids, (and) real-world substances'*, the field has evolved to [Monte Carlo simulation](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Molecular_Dynamics_Monte%20Carlo_Simulations_Langevin_Dynamics_Computational_Review.pdf), and arrived to the serious consideration of quantum molecular dynamics. 
 
 # Protein Folding
 
@@ -300,6 +300,8 @@ be typically characterized by an amount of information much smaller than the max
 (2015) [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/pdf/1502.05767.pdf)
 
 (2014) [Anton 2: Raising the bar for performance and programmability in a special-purpose molecular dynamics supercomputer](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Anton2_Raising_Bar_Special_Purpose_Molecular_Dynamics_SuperComputer.pdf)
+
+(2014) [](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Molecular_Dynamics_Monte%20Carlo_Simulations_Langevin_Dynamics_Computational_Review.pdf)
 
 (2012) [A Systolic Array-Based FPGA Parallel Architecture for the BLAST Algorithm](https://www.hindawi.com/journals/isrn/2012/195658/)
 
