@@ -296,6 +296,8 @@ be typically characterized by an amount of information much smaller than the max
 
 (2015) [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/pdf/1502.05767.pdf)
 
+(2014) [Anton 2: Raising the bar for performance and programmability in a special-purpose molecular dynamics supercomputer](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Anton2_Raising_Bar_Special_Purpose_Molecular_Dynamics_SuperComputer.pdf)
+
 (2012) [A Systolic Array-Based FPGA Parallel Architecture for the BLAST Algorithm](https://www.hindawi.com/journals/isrn/2012/195658/)
 
 (2011) [A high performance implementation for Molecular Dynamics simulations on a FPGA supercomputer](https://github.com/sevenTMers/kompilr/blob/main/papers/2011_high_performance_implementation_molecular_dynamics_fpga.pdf)
