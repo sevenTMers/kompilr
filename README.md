@@ -42,6 +42,8 @@ Important concepts for the dark arts 🎨 include:
 
 [Charmm](https://www.charmm.org/) - Chemistry at HARvard Macromolecular Mechanics
 
+[Amber](https://ambermd.org/) | 📖 [Paper](https://ambermd.org/2012_wires.pdf)
+
 
 
 # Protein Folding 
