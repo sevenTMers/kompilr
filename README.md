@@ -13,7 +13,8 @@ So let it not look strange
 if I claim
 that it is much easier to explain 
 the movement of the giant celestial bodies 
-than to interpret in mechanical terms 
+than to interpret 
+in mechanical terms 
 the origination of just a single caterpillar
 or a tiny grass.
 ``` 
