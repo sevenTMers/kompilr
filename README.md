@@ -40,6 +40,8 @@ Successful Molecular dynamics will increase the number of molecules **and** the 
 
 # Protein Folding
 
+Modelling & Simulation has had particular spectacular and loud success in the area of protein folding.  
+
  > Structure-function relationships are the fundamental object of knowledge in protein chemistry; they allow us to rationally design drugs, engineer proteins with new functions, and understand why mutations cause disease. [- On The Origin of Proteins](https://www.chemistryworld.com/features/on-the-origin-of-proteins/3004719.article)
 
 > There is now a testable explanation for how a protein can fold so quickly: A protein solves its large global optimization problem as a series of smaller local optimization problems, growing and assembling the native structure from peptide fragments, local structures first. [- The Protein Folding Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2443096/)
@@ -51,21 +53,6 @@ We used to believe that the protein folding problem is comprised of three closel
 * (b) What is the folding mechanism?
 * (c) Can we predict the native structure of a protein from its amino acid sequence? [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2443096/)
 
-
-## Data Sources
-
-
-[CATH/Gene3D](https://www.cathdb.info/) - 151 Million Protein Domains Classified into 5,481 Superfamilies
-
-[NCBI Conserved Domains Database](https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi) - resource for the annotation of functional units in proteins
-
-[Protein Data Bank](https://www.rcsb.org/)
-
-[Scop 2](https://scop.mrc-lmb.cam.ac.uk/) - Structural Classification of Proteins
-
-[UniProt](https://www.uniprot.org/) -  comprehensive, high-quality and freely accessible resource of protein sequence and functional information.
-
-[Fold@Home](https://foldingathome.org/about/)
 
 ## Deep Learning Protein Folding
 
@@ -107,6 +94,19 @@ We used to believe that the protein folding problem is comprised of three closel
 [:book: Paper](https://www.nature.com/articles/s41598-020-70181-0) 
 
 [:vhs: YouTube](https://youtu.be/uAIuA1O7iE8)
+
+## Data Sources for Protein Folding
+
+
+[CATH/Gene3D](https://www.cathdb.info/) - 151 Million Protein Domains Classified into 5,481 Superfamilies
+
+[NCBI Conserved Domains Database](https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi) - resource for the annotation of functional units in proteins
+
+[Protein Data Bank](https://www.rcsb.org/)
+
+[Scop 2](https://scop.mrc-lmb.cam.ac.uk/) - Structural Classification of Proteins
+
+[UniProt](https://www.uniprot.org/) -  comprehensive, high-quality and freely accessible resource of protein sequence and functional information.
 
 ## TPU
 
@@ -243,6 +243,9 @@ be typically characterized by an amount of information much smaller than the max
 [Nvidia NVCC Compiler](https://developer.nvidia.com/cuda-llvm-compiler)
 
 [Halide](https://halide-lang.org/)
+
+[Fold@Home](https://foldingathome.org/about/)
+
 
 # Companies
 
