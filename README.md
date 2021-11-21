@@ -30,6 +30,8 @@ From early studies in *'simple hardsphere systems and systems of monatomic model
 
 [NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf) | [Namd Goes Quantum](https://github.com/sevenTMers/kompilr/blob/main/papers/namd_goes_quantum_integrative_solution_hybrid_simulations.pdf)
 
+[Gromacs](https://manual.gromacs.org/documentation/) - Groningen MAchine for Chemical Simulations | [Tutorials](http://www.mdtutorials.com/gmx/)
+
 # Protein Folding
 
  > Structure-function relationships are the fundamental object of knowledge in protein chemistry; they allow us to rationally design drugs, engineer proteins with new functions, and understand why mutations cause disease. [- On The Origin of Proteins](https://www.chemistryworld.com/features/on-the-origin-of-proteins/3004719.article)
