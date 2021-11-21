@@ -22,9 +22,9 @@ or a tiny grass.
 > Kant, *Natural History and the Theory of Heaven* ☁️, 1755
 
 
-It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf). 
+It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf). Within all molecular dynamic simulations is the goal of *approximating* atom-atom interactions. 
 
-From early studies in *'simple hardsphere systems and systems of monatomic model fluids, (and) real-world substances'*, the field has evolved to [Monte Carlo simulation](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Molecular_Dynamics_Monte%20Carlo_Simulations_Langevin_Dynamics_Computational_Review.pdf), and arrived at serious consideration of quantum molecular dynamics. 
+From early studies in *'simple hardsphere systems and systems of monatomic model fluids, (and) real-world substances'*, the field has evolved to [Monte Carlo simulation](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Molecular_Dynamics_Monte%20Carlo_Simulations_Langevin_Dynamics_Computational_Review.pdf), and arrived at the serious consideration of quantum molecular dynamics inherent in the ab-initio molecular dynanimcs of [Car & Parinello](). 
 
 Successful Molecular dynamics will increase the number of molecules **and** the amount of time steps simulated, supported by engineering innovation in parrallel and [High Performance Computing](https://www.usgs.gov/core-science-systems/sas/arc/about/what-high-performance-computing#:~:text=High%20Performance%20Computing%20most%20generally,science%2C%20engineering%2C%20or%20business.) (HPC). Software/Hardware co-evolution is the sauce of secrets, and thus this repository attempts to gather wisdom 🤔 about what dark magic has been caste thus far.
 
