@@ -22,7 +22,7 @@ Machine Learning for Drug Discovery has [made many strides](https://www.ncbi.nlm
  
 # Molecular Dynamics 
 
-It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf). 
+It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf). From these early studies in *'early simulations concentrated on simple hardsphere systems and systems of monatomic model fluids, real-world substances'* the field has evolved to Monte Carlo sampling simulation, and are now at the point where quantum molecular dynamics are a real question for the near future. 
 
 # Protein Folding
 
