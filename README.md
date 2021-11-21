@@ -4,7 +4,7 @@
 
 ![The First Compiler](images/holy_mountain.gif)
 
-Machine Learning for Drug Discovery has [made many strides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) over the last decade. Yet there is a long, long way to go. 
+🤖 Machine Learning for Drug Discovery has [made many strides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) over the last decade. Yet there is a long, long way to go. 
  
 # Molecular Dynamics 
 
