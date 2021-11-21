@@ -28,7 +28,7 @@ From early studies in *'simple hardsphere systems and systems of monatomic model
 
 ## Software
 
-[NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf)
+[NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf) | [Namd Goes Quantum]()
 
 # Protein Folding
 
