@@ -26,6 +26,8 @@ It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](
 
 From early studies in *'simple hardsphere systems and systems of monatomic model fluids, (and) real-world substances'*, the field has evolved to [Monte Carlo simulation](https://github.com/sevenTMers/kompilr/blob/main/papers/2014_Molecular_Dynamics_Monte%20Carlo_Simulations_Langevin_Dynamics_Computational_Review.pdf), and arrived to the serious consideration of quantum molecular dynamics. 
 
+Successful Molecular dynamics will increase the number of molecules **and** the amount of time steps simulated, supported by engineering innovation in parrallel and [High Performance Computing](https://www.usgs.gov/core-science-systems/sas/arc/about/what-high-performance-computing#:~:text=High%20Performance%20Computing%20most%20generally,science%2C%20engineering%2C%20or%20business.) (HPC. 
+
 ## Software
 
 [NAMD](http://www.ks.uiuc.edu/Research/namd/) - Not Another Molecular Dynamics Program | 📖 [Paper](https://github.com/sevenTMers/kompilr/blob/main/papers/1996_namd_paper.pdf) | [Namd Goes Quantum](https://github.com/sevenTMers/kompilr/blob/main/papers/namd_goes_quantum_integrative_solution_hybrid_simulations.pdf)
