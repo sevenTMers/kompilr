@@ -28,7 +28,7 @@ From early studies in *'simple hardsphere systems and systems of monatomic model
 
 Successful Molecular dynamics will increase the number of molecules **and** the amount of time steps simulated, supported by engineering innovation in parrallel and [High Performance Computing](https://www.usgs.gov/core-science-systems/sas/arc/about/what-high-performance-computing#:~:text=High%20Performance%20Computing%20most%20generally,science%2C%20engineering%2C%20or%20business.) (HPC). Software/Hardware co-evolution is the sauce of secrets, and thus this repository attempts to gather wisdom 🤔 about what dark magic has been caste thus far.
 
-Important concepts include: 
+Important concepts for the dark arts 🎨 include: 
 * [Van Der Waals Forces](https://www.britannica.com/science/van-der-Waals-forces)
 * [Pauli Repulsion](https://web1.eng.famu.fsu.edu/~dommelen/quantum/style_a/pr.html)
 * [Lennard-Jones Potential](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Intermolecular_Forces/Specific_Interactions/Lennard-Jones_Potential)
