@@ -20,8 +20,9 @@ or a tiny grass.
 
 Machine Learning for Drug Discovery has [made many strides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) over the last decade. Yet there is a long, long way to go. 
  
-The only way forward is through the mastery of the code. 
+# Molecular Dynamics 
 
+It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf). 
 
 # Protein Folding
 
@@ -309,4 +310,6 @@ be typically characterized by an amount of information much smaller than the max
 (1982) [Why Systolic Architectures?](https://course.ece.cmu.edu/\~ece740/f13/lib/exe/fetch.php?media=kung_-_1982_-_why_systolic_architectures.pdf)
 
 (1981) [Trace Scheduling: A Technique for Global Microcode Compaction](https://people.eecs.berkeley.edu/\~kubitron/courses/cs252-S12/handouts/papers/TraceScheduling.pdf)
+
+(1959) [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf)
 
