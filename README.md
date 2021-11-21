@@ -304,6 +304,8 @@ be typically characterized by an amount of information much smaller than the max
 
 (2008) [Anton, A Special-Purpose Machine For Molecular Dynamics Simulation](https://cacm.acm.org/magazines/2008/7/5372-anton-a-special-purpose-machine-for-molecular-dynamics-simulation/fulltext)
 
+(2008) [High-Throughput Pairwise Point Interactions in Anton, a Specialized Machine for Molecular Dynamics Simulation](https://github.com/sevenTMers/kompilr/blob/main/papers/2008_High_Throughput_Pairwise_Point_Interactions_in_Anton.pdf)
+
 (1982) [Why Systolic Architectures?](https://course.ece.cmu.edu/\~ece740/f13/lib/exe/fetch.php?media=kung_-_1982_-_why_systolic_architectures.pdf)
 
 (1981) [Trace Scheduling: A Technique for Global Microcode Compaction](https://people.eecs.berkeley.edu/\~kubitron/courses/cs252-S12/handouts/papers/TraceScheduling.pdf)
