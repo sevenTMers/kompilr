@@ -4,6 +4,10 @@
 
 ![The First Compiler](images/holy_mountain.gif)
 
+Machine Learning for Drug Discovery has [made many strides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) over the last decade. Yet there is a long, long way to go. 
+ 
+# Molecular Dynamics 
+
 ```
 So let it not look strange 
 if I claim
@@ -16,11 +20,6 @@ or a tiny grass.
 
 > Kant, *Natural History and the Theory of Heaven*, 1755
 
----
-
-Machine Learning for Drug Discovery has [made many strides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) over the last decade. Yet there is a long, long way to go. 
- 
-# Molecular Dynamics 
 
 It is said Molecular Dynamics begin with 1959's [Studies in Molecular Dynamics](https://github.com/sevenTMers/kompilr/blob/main/papers/1959_Studies_in_Molecular%20Dynamics.pdf). 
 
