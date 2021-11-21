@@ -1,6 +1,6 @@
 #  Domain Specific Compilers for Drug Discovery :electron:
 
-> The next decade will see a Cambrian explosion of 💻 novel computer architectures... [A New Golden Age For Computer Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext)
+> The next decade will see a Cambrian explosion of novel computer architectures 💻 ... [A New Golden Age For Computer Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext)
 
 ![The First Compiler](images/holy_mountain.gif)
 
