@@ -275,6 +275,8 @@ be typically characterized by an amount of information much smaller than the max
 
 [COBRE Center for Targeted Therapeutics](https://sc.edu/study/colleges_schools/pharmacy/centers/cobre_center_for_targeted_therapeutics/index.php) - University of South Carolina
 
+[Scripps Research](https://www.scripps.edu/)
+
 
 # References
 
